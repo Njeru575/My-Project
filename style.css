@@ -34,4 +34,6 @@ body {
     color: #f1c40f;
     border-bottom: 2px solid #f1c40f;
   }
-  
+  main {
+    padding: 30px 20px;
+  }
